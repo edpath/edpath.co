@@ -1,2 +1,2 @@
-MVP for edupath
+MVP for edpath
 ========
